@@ -1,0 +1,25 @@
+C'est quoi WordPress ?
+
+WordPress c'est le CMS (Content Management Software) derrière environ 40% des sites internet du monde. Mais comment est-il fait ? Comment ça marche ?
+
+Un peu d'histoire de WordPress
+
+La première version de WordPress date de 2003. Il a été créé par Matt Mullenweg et Mike Little pour remplacer le système de création de blogs cafelog, que ses développeurs cessaient de maintenir. Il est construit en PHP et MySQL et il est open-source, libre d'utilisation et de modification.
+
+Il y a quoi dans WordPress ?
+
+WordPress repose sur 3 composants principaux. Le Core de WordPress, le logiciel de base que l'on installe sur un serveur. Les thèmes qui gèrent ce que voient les utilisateurs. Les plugins (ou extensions) qui rajoutent des fonctionnalités aux sites.
+
+Anatomie d'un thème WordPress
+
+Seuls deux fichiers sont nécessaires pour faire un thème WordPress. Un fichier index.php qui peut être vide et un fichier style.css qui au minimum doit contenir les informations qui permettent d'identifier le thème. Ces deux fichiers techniquement créent un thème. Il n'affichera rien mais il existe.
+
+Un thème plus riche mais restant simple contiendra quelques fichiers permettant de faire fonctionner un blog très simple. Des fichiers .php ayant chacun un rôle à tenir et dont les noms sont définis par WordPress. front-page.php permet d'afficher une page d'accueil différente des autres pages. page.php permet d'afficher une page normale.home.php une page qui affiche la liste des articles du blog. single.php le détail d'un article de blog. archive.php permet d'afficher la liste des articles d'une catégorie du blog.
+
+Avec ces templates de base il est possible de réaliser un thème simple permettant de créer un site vitrine pour une petite entreprise ou un association ainsi que poster des actualités.
+
+Des extensions pour toutes les occasions
+
+Quelques extensions gratuites de base permettront d'ajouter des fonctionnalités au site. Yoast SEO vous permettra de surveiller le référencement. Contact Form 7 pour mettre en place un formulaire de contact. Mail Poet pour mettre en place une newsletter.
+
+Avec tous ces éléments vous avez les clés en main pour créer de sites simples et efficaces.
